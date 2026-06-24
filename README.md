@@ -1,13 +1,16 @@
 # Student Registration Screen
 
-A clean Android app built with Kotlin and Jetpack Compose that provides a student registration form with validation and a success confirmation view.
+![Android](https://img.shields.io/badge/Platform-Android-green)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue)
+![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-purple)
+
+A modern Android app built with Kotlin and Jetpack Compose for collecting student registration details through a polished form UI.
 
 ## Features
-- Modern Material 3 UI
-- Form fields for full name, email, phone number, and gender
-- Validation for required input and format checks
-- Terms and conditions checkbox
-- Success card shown after a valid submission
+- Material 3-based registration form
+- Validation for name, email, phone number, gender, and terms acceptance
+- Clear success feedback after a valid submission
+- Simple and beginner-friendly Android project structure
 
 ## Tech Stack
 - Kotlin
@@ -28,10 +31,10 @@ A clean Android app built with Kotlin and Jetpack Compose that provides a studen
 
 ## Project Structure
 - app/src/main/java/com/lpu/studentregistrationscreen/MainActivity.kt - Main registration screen UI and validation logic
-- app/src/main/res - Layouts, strings, themes, and launcher resources
+- app/src/main/res - Resources such as strings, themes, and launcher assets
 
 ## Screenshots
-Add a screenshot of the registration screen here to make the repository more visually appealing.
+Add a screenshot of the registration screen here to make the repository page more visually appealing.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
