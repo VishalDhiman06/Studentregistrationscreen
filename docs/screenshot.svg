@@ -1,0 +1,31 @@
+<svg width="1200" height="2200" viewBox="0 0 1200 2200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="2200" fill="#f8fafc"/>
+  <rect x="80" y="80" width="1040" height="2040" rx="48" fill="#ffffff" stroke="#dbe2ea" stroke-width="4"/>
+  <rect x="120" y="130" width="960" height="120" rx="24" fill="#f1f5f9"/>
+  <rect x="150" y="170" width="260" height="28" rx="14" fill="#0f172a"/>
+  <rect x="150" y="220" width="140" height="14" rx="7" fill="#94a3b8"/>
+  <rect x="150" y="360" width="900" height="110" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="180" y="400" width="220" height="22" rx="11" fill="#64748b"/>
+  <rect x="180" y="440" width="430" height="14" rx="7" fill="#e2e8f0"/>
+  <rect x="150" y="520" width="900" height="110" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="180" y="560" width="220" height="22" rx="11" fill="#64748b"/>
+  <rect x="180" y="600" width="430" height="14" rx="7" fill="#e2e8f0"/>
+  <rect x="150" y="680" width="900" height="110" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="180" y="720" width="220" height="22" rx="11" fill="#64748b"/>
+  <rect x="180" y="760" width="430" height="14" rx="7" fill="#e2e8f0"/>
+  <rect x="150" y="840" width="900" height="140" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="180" y="890" width="220" height="22" rx="11" fill="#64748b"/>
+  <circle cx="230" cy="960" r="16" fill="#3b82f6"/>
+  <circle cx="310" cy="960" r="16" fill="#d1d5db"/>
+  <circle cx="390" cy="960" r="16" fill="#d1d5db"/>
+  <rect x="150" y="1030" width="900" height="90" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="180" y="1060" width="240" height="22" rx="11" fill="#64748b"/>
+  <rect x="180" y="1100" width="220" height="12" rx="6" fill="#e2e8f0"/>
+  <rect x="150" y="1160" width="900" height="140" rx="24" fill="#2563eb"/>
+  <rect x="180" y="1200" width="260" height="24" rx="12" fill="#ffffff"/>
+  <rect x="180" y="1245" width="200" height="12" rx="6" fill="#bfdbfe"/>
+  <rect x="700" y="1350" width="280" height="68" rx="34" fill="#0f172a"/>
+  <rect x="740" y="1372" width="200" height="24" rx="12" fill="#ffffff"/>
+  <text x="150" y="1500" font-family="Segoe UI, Arial, sans-serif" font-size="48" fill="#0f172a">Student Registration</text>
+  <text x="150" y="1560" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#475569">A simple Android Compose form for student details</text>
+</svg>

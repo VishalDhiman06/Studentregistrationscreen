@@ -34,7 +34,8 @@ A modern Android app built with Kotlin and Jetpack Compose for collecting studen
 - app/src/main/res - Resources such as strings, themes, and launcher assets
 
 ## Screenshots
-Add a screenshot of the registration screen here to make the repository page more visually appealing.
+
+![Student Registration Screen Preview](docs/screenshot.svg)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
