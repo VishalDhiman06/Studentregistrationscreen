@@ -4,6 +4,14 @@ A modern Android Student Registration application developed using **Kotlin** and
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="first" width="250" alt="Registration Form"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="output.png" width="250" alt="Registration Success"/>
+</p>
+
 ## 📱 Features
 
 * ✅ Student Registration Form
